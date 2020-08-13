@@ -70,4 +70,4 @@ Priyanka Saggu is a DevOps engineer, currently working at a dataOps organisation
 
 ---
 
-![Screenshot-of-the-draft]()
+![Screenshot-of-the-draft](draft.png)
